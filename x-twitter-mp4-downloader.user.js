@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         X/Twitter MP4 direct links + download
 // @namespace    local.codex
-// @version      1.7.0
+// @version      1.7.1
+// @updateURL    https://raw.githubusercontent.com/yangyangha1/x-twitter-mp4-downloader/main/x-twitter-mp4-downloader.user.js
+// @downloadURL  https://raw.githubusercontent.com/yangyangha1/x-twitter-mp4-downloader/main/x-twitter-mp4-downloader.user.js
 // @description  Copy all media links or download all videos and images from X/Twitter posts.
 // @match        https://x.com/*
 // @match        https://twitter.com/*

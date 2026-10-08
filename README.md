@@ -1,6 +1,6 @@
 # X/Twitter MP4 Downloader
 
-Tampermonkey userscript for X/Twitter posts with videos or images. It adds a copy-link button and a download button to each post's action bar. Current version: **1.7.0**.
+Tampermonkey userscript for X/Twitter posts with videos or images. It adds a copy-link button and a download button to each post's action bar. Current version: **1.7.1**.
 
 ## Features
 
@@ -17,6 +17,8 @@ Tampermonkey userscript for X/Twitter posts with videos or images. It adds a cop
 2. Open [`x-twitter-mp4-downloader.user.js`](x-twitter-mp4-downloader.user.js) on GitHub and choose **Raw**; Tampermonkey will offer to install it.
 3. Confirm the requested permissions for `api.fxtwitter.com`, `video.twimg.com`, and `pbs.twimg.com`.
 4. Reload X/Twitter. Use the link button to copy all media URLs, or the download arrow to save all media files. If the browser asks, allow multiple downloads for X/Twitter.
+
+The script includes explicit `@updateURL` and `@downloadURL` links to the GitHub Raw file. Update checks follow your userscript manager's settings.
 
 ## Filename
 
